@@ -1,0 +1,11 @@
+athlète :				
+nom
+prénom
+date de naissance
+type d'arme
+mail
+
+equipementier :
+table
+armoire
+raccordement électrique
